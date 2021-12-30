@@ -1,6 +1,6 @@
 # KIOS-Summer-Intern
-This repository includes all the code implemented during my internship at KIOS Research Center (https://www.kios.ucy.ac.cy/) during Summer 2017.
 
+This repository includes all the code implemented during my internship at KIOS Research Center (https://www.kios.ucy.ac.cy/) during Summer 2017.
 The description of the internship is given below.
 
 Simulated the basic modulation schemes such as, BPSK, QPSK, 16QAM to investigate their performance over an AWGN channel.
