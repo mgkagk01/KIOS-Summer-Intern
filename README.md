@@ -9,7 +9,7 @@ Implemented:
 * A transmission of BPSK symbols over a frequency selective channel using  OFDM
 * The Alamouti (2x1) when the channel is frequency selective and use OFDM to transmit data in parallel
 
-The scripts added or will add in the future are
+The scripts added or will be added in the future are
 
 * BPSK_AWGN.m 
 * QPSK_AWGN.m 
