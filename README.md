@@ -12,3 +12,9 @@ Implemented:
 The scripts added or will add in the future are
 
 * BPSK_AWGN.m 
+* QPSK_AWGN.m 
+* QPSK_Pulse_Shaping_AWGN.m -- Missing
+* OFDM_BPSK.m -- Missing
+* OFDM_QPSK.m -- Missing
+* Alamouti_MISO_BPSK.m -- Missing
+* OFDM_Alamouti.m -- Missing
